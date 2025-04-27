@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### I'm Silvio Martinec
+  
+A computer engineer with a Bachelor's degree, and excitedly interested in the research and testing of various software solutions and their interactions, particularly within temporary, isolated environments using platforms such as Windows, WordPress, Sandbox, and Linux.  
+With over 20 years of experience and a strong IT training and support/troubleshooting background, I’m prepared for any issue.  
+Also, a veteran with military training, keen attention to detail, and high tactical and strategic knowledge levels.
+
+>> Creative Visionary with logic, patience, communication, and attention to detail as main underlying strengths. Having a knack for not panicking in the face of complexity. Successfully breaking things down into manageable chunks, and tackling them with the tools at hand, resolving the issue. Things I'm interested in: planning, building structures, thinking in systems, puzzles, adapting to change and learning new technologies.
+
 <!--
 **Silver25/Silver25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
