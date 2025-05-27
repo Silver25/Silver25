@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Silvio Martinec
+### I'm Silvio
   
 A computer engineer with a Bachelor's degree, and excitedly interested in the research and testing of various software solutions and their interactions, particularly within temporary, isolated environments using platforms such as Windows, WordPress, Sandbox, and Linux.  
 With over 20 years of experience and a strong IT training and support/troubleshooting background, I’m prepared for any issue.  
